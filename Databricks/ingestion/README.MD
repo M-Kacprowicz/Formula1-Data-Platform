@@ -1,0 +1,1 @@
+**Notebooks used to ingest raw data from ADLS container, process data into silver layer and save processed data in parquet format into another ADLS container.**

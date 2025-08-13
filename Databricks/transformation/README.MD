@@ -1,0 +1,1 @@
+**Notebooks used to transform data in silver layer and save them into ADLS container as gold layer.**
